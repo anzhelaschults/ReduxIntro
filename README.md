@@ -1,3 +1,6 @@
+
+![j](https://github.com/anzhelaschults/ReduxIntro/blob/master/Screenshot%202021-11-15%20at%2021.40.56.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
