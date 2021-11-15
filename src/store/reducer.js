@@ -5,8 +5,11 @@ import {ADD_COUNTER, ADD_DEC_COUNTER, ADD_NUMBER_COUNTER} from "./actions";
 const initialState = {
     count: 0,
 }
-// Reducer - Logic how changes a state of our data. Returns current state
+
 // Function where 2 things (state and action) come in and 1 come out (state)
+
+//Reducer is a function where the first argument is the current state of the world and second is something that happened
+// it returns new state of the world
 
 //Reducer is just a JavaScript function
 
